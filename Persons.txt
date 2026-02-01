@@ -1,0 +1,7 @@
+Yoseph,yoseph,password123,admin
+kendra,klove,verysafepass,manager
+milka,milka123,milcah,employee
+caleb,caleb00,caleb123,employee
+mark,mark123,mark123,admin
+blen,blen11,blen,employee
+henok,henok123,henok,manager
